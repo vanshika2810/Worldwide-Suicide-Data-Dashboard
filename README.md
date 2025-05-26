@@ -44,9 +44,10 @@ This project contains an Excel-based dashboard designed to provide an at-a-glanc
 - Adjust slicers or charts to reflect different metrics.
 - Extend KPIs to include additional business dimensions.
 
-## 📄 License
+## 📄 Images
 
-This project is licensed under the MIT License. See `LICENSE` for more information.
+![Screenshot (458)](https://github.com/user-attachments/assets/38caf604-392e-498e-87f2-28deb2f3b68a)
+
 
 ---
 
